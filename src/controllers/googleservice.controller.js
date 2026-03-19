@@ -56,10 +56,7 @@ exports.createGoogleServiceEnquiry = async (req, res) => {
                 <td><b>Email</b></td>
                 <td>${email}</td>
               </tr>
-              <tr>
-                <td><b>Mobile</b></td>
-                <td>${mobile}</td>
-              </tr>
+             
               <tr>
                 <td><b>Contact No</b></td>
                 <td>${contactNo}</td>
