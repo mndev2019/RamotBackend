@@ -54,6 +54,6 @@ router.delete("/blog/:id", deleteBlog);
 
 
 // sitemap route
-router.get("/sitemap", getSitemap);
+router.get("/sitemap.xml", getSitemap);
 
 module.exports = router;
