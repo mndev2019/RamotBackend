@@ -57,7 +57,7 @@ router.delete("/blog/:id", deleteBlog);
 router.get("/sitemap.xml", getSitemap);
 
 // google verification route
-router.get('/google123abc.html', (req, res) => {
+router.get('/google91515d6c9efa2d94.html', (req, res) => {
   res.send('google-site-verification: google91515d6c9efa2d94.html');
 });
 
